@@ -1,6 +1,6 @@
 openai==0.2.5
 streamlit==0.86.0
-opencv-contrib-python-headless
+opencv-contrib-python==4.5.5.62
 openai
 names
 requests
